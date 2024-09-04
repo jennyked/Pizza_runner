@@ -1,0 +1,25 @@
+restaurant_id,order_id,price,restaurant_name,item_description,restaurant_address_line1,restaurant_address_line2,restaurant_city,restaurant_state,restaurant_zip_code
+1,2,50,Italiano Pizza ,Tuner fish pizza,123 Main St,NULL,New York City,New York,10001
+2,1,25.5,Italiano Pizza ,Margherita Pizza,123 Main St,NULL,New York City,New York,10001
+3,4,12.75,Italiano Pizza,Mushroom pizza,123 Main St,NULL,New York City,New York,10001
+,4,12.75,Italiano Pizza,Margherita Pizza,123 Main St,NULL,New York City,New York,10001
+4,2,13.49,Breakfast Café ,Black coffee,456 Elm St,NULL,Boston,Massachusetts,2110
+4,2,13.49,Breakfast Café ,Sausage,456 Elm St,NULL,Boston,Massachusetts,2110
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+5,2,10.99,"Breakfast Café (Macaroni, Black coffee)",,456 Elm St,NULL,Boston,Massachusetts,2110
+6,1,10.99,Breakfast Café (Oxtail),,456 Elm St,NULL,Boston,Massachusetts,2110
+7,6,10.99,"Breakfast Café (Custard, Beans)",,456 Elm St,NULL,Boston,Massachusetts,2110
+8,3,35.78,"Burger King (Burger, Cola, Chicken)",,336 Main St,NULL,New York City,New York,13201
+9,3,24.65,"Burger King (Cheese Burger, Fanta, Chicken)",,336 Main St,NULL,New York City,New York,13201
+10,3,45,"Afro kitchen (Abacha, Nkwobi, Oha Soup)",,076 Hamburg St,NULL,Hamburg City,Hamburg,10032
+11,2,50,Afro foods (Ugba),,123 Hamburg St,NULL,Hamburg City,Hamburg,10041
+12,,,,,,,,,
+13,,,,,,,,,
+14,,,,,,,,,
+15,,,,,,,,,
+16,,,,,,,,,
+17,,,,,,,,,
